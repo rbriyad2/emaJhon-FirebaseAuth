@@ -1,0 +1,24 @@
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    background: #1C2B35;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 32px;
+    font-size: 17px;
+    transition: all linear .3s;
+}
+.menu a:hover{
+    color: orange;
+}

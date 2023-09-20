@@ -1,0 +1,72 @@
+.reviewProductContent{
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    padding: 8px 15px 8px 8px;
+    width: 571px;
+    margin-bottom: 21px;
+    display: flex;
+    align-items: center;
+}
+
+.reviewProductContent img{
+    width: 91px;
+    height: 91px;
+    border-radius: 6px;
+    margin-right: 17px;
+}
+.productdetails{
+    flex-grow: 1;
+}
+
+.productdetails h4{
+    color: #1C2B35;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'Lato';
+    margin: 0;
+    margin-top: 5px;
+}
+.price{
+    color: #1C2B35;
+font-size: 15px;
+font-weight: 400;
+font-family: 'Lato';
+margin: 0;
+margin-top: 8px;
+}
+.price span{
+    color: #FF9900;
+font-size: 15px;
+font-weight: 400;
+font-family: 'Lato';
+margin: 0;
+margin-top: 8px;
+}
+.shippingcarge{
+    color: #1C2B35;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Lato';
+    margin: 8px 0 9px 0;
+}
+.shippingcarge span{
+    color: #FF9900;
+font-size: 15px;
+font-weight: 400;
+font-family: 'Lato';
+}
+.deletebtn{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: none;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: rgba(235, 87, 87, 0.30);
+    cursor: pointer;
+}
+.deleteicon{
+    font-size: 27px;
+    color: #EB5757;
+}

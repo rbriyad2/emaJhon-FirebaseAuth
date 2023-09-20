@@ -1,0 +1,14 @@
+.container{
+    max-width: 1440px;
+}
+.shop-content{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.review-product{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.Procedlink{
+    text-decoration: none;
+}
