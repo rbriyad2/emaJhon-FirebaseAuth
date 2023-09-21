@@ -1,0 +1,61 @@
+.signuppage{
+    padding: 100px 0;
+}
+.signupbox{
+    border-radius: 8px;
+    border: 1px #95A0A7 solid;
+    width: 500px;
+    margin: 0 auto;
+    padding: 42px;
+}
+.signupbox h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.form-control{
+    margin-bottom: 20px;
+}
+.form-control label{
+    display: block;
+    margin-bottom: 5px;
+    color: #2A414F;
+font-size: 20px;
+font-weight: 400;
+margin-left: 5px;
+}
+.form-control input{
+    border-radius: 5px;
+    border: 1px #95A0A7 solid;
+    padding: 5px 10px;
+    width: 95%;
+    height: 35px;
+    font-size: 20px;
+}
+.submitbtn{
+    margin-top: 20px;
+    background: rgba(255, 153, 0, 0.30);
+    border-radius: 10px;
+    border: none;
+    padding: 14px;
+    width: 100%;
+    color: #0E161A;
+font-size: 22px;
+font-weight: 400;
+    transition: all linear .3s;
+}
+.submitbtn:hover{
+    background: rgba(255, 153, 0, 0.80);
+    cursor: pointer;
+    color: #000;
+}
+.signupbox p{
+    color: #2A414F;
+font-size: 15px;
+font-weight: 400;
+text-align: center;
+}
+.signupbox p a{
+    color: #FF9900;
+font-size: 15px;
+font-weight: 400;
+}
