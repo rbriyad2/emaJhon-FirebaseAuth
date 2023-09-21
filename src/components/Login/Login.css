@@ -11,3 +11,14 @@
     cursor: pointer;
     transition: all linear .3s;
 }
+#eyeoff{
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    margin-left: -35px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#passwordinput{
+    position: relative;
+}
